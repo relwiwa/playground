@@ -1,0 +1,7 @@
+.buttonGroup button {
+  margin: 0 10px 0 0;
+}
+
+.buttonGroup button:last-child {
+  margin: 0;
+}

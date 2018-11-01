@@ -1,0 +1,5 @@
+.app > div {
+  border: 1px dotted black;
+  margin: 15px;
+  padding: 10px;
+}
